@@ -5,9 +5,8 @@ Because they are way too basic. It's in the league of
 
 `
 public class ShowSyntaxErrors {
-
-  public static main(String[] args) {  
-    System.out.println("Welcome to Java);<br>  
+    public static main(String[] args) {  
+        System.out.println("Welcome to Java);
     }  
   }  
 `
