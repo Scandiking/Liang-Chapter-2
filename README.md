@@ -4,4 +4,4 @@
 
 ---
 
-This is a repo consisting of the small classes as defined in the course book _Introduction to Java Programming and Data Structures_ by _Y. Daniel Liang_, with loads of comments for my own learning's sake.
+This is a repo consisting of the small classes as defined in the course book _Introduction to Java Programming and Data Structures_ by _Y. Daniel Liang_, with loads of comments (in mostly Norwegian mind you) for my own learning's sake.
