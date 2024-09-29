@@ -1,7 +1,9 @@
 # Liang-Chapter-2
 
-Where's the repo for the chapter 1 classes? 
-Because they are way too basic. It's in the league of 
+So, this is a repo consisting of the programs from _Introduction to Java Programming and Data Structures_ by _Y. Daniel Liang_ featuring lots of comments for my own learing's sake. 
+
+Where's the repo for the chapter 1 java classes? 
+There aren't any. Because they are way too basic. It's in the league of 
 
 <pre>
 ```java 
