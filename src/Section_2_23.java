@@ -15,7 +15,7 @@ public class Section_2_23 {
     public static void main(String[] args) {
         Scanner scanscan = new Scanner(System.in);
 
-        // Input
+        // Input ...
         System.out.println("Enter the driving distance: ");
         double drivingDistance = scanscan.nextDouble();
 
@@ -25,11 +25,11 @@ public class Section_2_23 {
         System.out.println("Enter price per gallon: ");
         double pricePerGallon = scanscan.nextDouble();
 
-        // Calculations
+        // Calculations ...
         double costOfDriving = (drivingDistance / milesPerGallon) * pricePerGallon;
 
 
-        // Output
+        // Output ...
         System.out.printf("The cost of driving is: %.2f", costOfDriving);
     }
 }
