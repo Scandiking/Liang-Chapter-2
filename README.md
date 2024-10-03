@@ -4,6 +4,8 @@
 
 This is a repo consisting of the small classes as defined in the course book _Introduction to Java Programming and Data Structures_ by _Y. Daniel Liang_, with loads of comments (in mostly Norwegian mind you) for my own learning's sake.
 
+---
+
 __Objectives__
 - To write Java programs to perform simple calculations
 - To obtain input from the console using the `Scanner`class
@@ -27,12 +29,14 @@ __Objectives__
 - To write a program that converts a large amount of money into smaller units
 - To avoid common errors and pitfalls in elementary programming
 
+---
+
 #### Section classes
 
 The __section__ classes are programming exercises. These come after each chapter, instead of during the chapters as the __listing__ classes does.
 `*` and `**` denotes heightened difficulty according to the course book editors.
 
-#### Section
+#### Section (programming exercises)
 - 2.1 [Convert mile to kilometer](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_1.java)
 - 2.2 [Compute the volume of a triangle](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_2.java)
 - 2.3 [Convert meters into feet](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_3.java)
@@ -56,3 +60,18 @@ The __section__ classes are programming exercises. These come after each chapter
 - 2.21 [Financial application: calculate future investment value](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_21.java) `*`
 - 2.22 [Financial application: monetary units](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_22.java) `*`
 - 2.23 [Cost of driving](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/Section_2_23.java) `*` (but why?)
+
+---
+
+#### Listing
+
+- 2.1 [Compute Area](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeArea_2_1.java)
+- 2.2 [Compute Area With Console Input](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeAreaWithConsoleInput_2_2.java)
+- 2.3 [Compute Average](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeAverage_2_3.java)
+- 2.4 [Compute Area With Constant](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeAreaWithConstant_2_4.java)
+- 2.5 [Display Time](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/DisplayTime_2_5.java)
+- 2.6 [FahrenheitToCelsius](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/FahrenheitToCelsius_2_6.java)
+- 2.7 [Show Current Time](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ShowCurrentTime_2_7.java)
+- 2.8 [Sales Tax](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/SalesTax_2_8.java)
+- 2.9 [Compute Loan](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeLoan_2_9.java)
+- 2.10 [Compute Change](https://github.com/Scandiking/Liang-Chapter-2/blob/master/src/ComputeChange_2_10.java)
